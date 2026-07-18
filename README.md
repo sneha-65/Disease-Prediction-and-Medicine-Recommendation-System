@@ -161,4 +161,4 @@ http://127.0.0.1:8000
 The project is deployed on Render:
 
 🔗 Live URL:
-https://disease-prediction-ml-guky.onrender.com
+https://disease-prediction-and-medicine-j6tn.onrender.com
