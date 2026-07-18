@@ -123,7 +123,7 @@ Project/
 
 ### 2️⃣ Clone the Repository
 
-- git clone [https://github.com/Priya-Harshitha/disease-prediction-ml.git](https://github.com/Priya-Harshitha/disease-prediction-ml.git)
+- git clone [https://github.com/sneha-65/Disease-Prediction-and-Medicine-Recommendation-System]((https://github.com/sneha-65/Disease-Prediction-and-Medicine-Recommendation-System)
 - cd disease-prediction-ml
 
 ---
